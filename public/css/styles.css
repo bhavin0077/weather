@@ -1,0 +1,34 @@
+body{
+    /* background-color: #297F87; */
+    text-align: center;
+    background-image: url('/images/galaxy.jpg');
+  background-size: cover; 
+}
+
+form {
+    margin-top: 20%;
+    margin: 150px;
+ }
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+input{
+    padding: 5px 0;
+    border: none ;
+    border-radius: 10px;
+}
+
+#cityName{
+    text-align: center;
+}
+
+button{
+    margin: 20px;
+}
+
+.btn{
+    padding: 5px 40px;
+}
